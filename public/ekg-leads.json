@@ -1,0 +1,137 @@
+{
+  "reference_beat": "representative_cycle_at_74_bpm",
+  "intervals_ms": {
+    "RR": 810,
+    "PR": 140,
+    "QRS": 85,
+    "QT": 360,
+    "QTc_Bazett": 400
+  },
+  "axis_degrees": {
+    "P_axis": 60,
+    "QRS_axis": 55,
+    "T_axis": 45
+  },
+  "leads": {
+    "I": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":  -0.05,
+      "R_amplitude_mV":   0.50,
+      "S_amplitude_mV":  -0.10,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.20,
+      "T_polarity": "positive",
+      "morphology": "normal_sinus"
+    },
+    "II": {
+      "P_amplitude_mV":   0.20,
+      "Q_amplitude_mV":  -0.05,
+      "R_amplitude_mV":   1.10,
+      "S_amplitude_mV":  -0.05,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.35,
+      "T_polarity": "positive",
+      "morphology": "tall_upright_dominant"
+    },
+    "III": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":   0.00,
+      "R_amplitude_mV":   0.60,
+      "S_amplitude_mV":  -0.05,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.20,
+      "T_polarity": "positive",
+      "morphology": "normal_sinus"
+    },
+    "aVR": {
+      "P_amplitude_mV":  -0.10,
+      "Q_amplitude_mV":   0.00,
+      "R_amplitude_mV":  -0.90,
+      "S_amplitude_mV":   0.00,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":  -0.20,
+      "T_polarity": "negative",
+      "morphology": "inverted_all_waves"
+    },
+    "aVL": {
+      "P_amplitude_mV":   0.05,
+      "Q_amplitude_mV":  -0.05,
+      "R_amplitude_mV":   0.20,
+      "S_amplitude_mV":  -0.10,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.10,
+      "T_polarity": "positive",
+      "morphology": "low_amplitude"
+    },
+    "aVF": {
+      "P_amplitude_mV":   0.15,
+      "Q_amplitude_mV":  -0.05,
+      "R_amplitude_mV":   0.70,
+      "S_amplitude_mV":  -0.05,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.25,
+      "T_polarity": "positive",
+      "morphology": "normal_sinus"
+    },
+    "V1": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":   0.00,
+      "R_amplitude_mV":   0.10,
+      "S_amplitude_mV":  -0.50,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.10,
+      "T_polarity": "biphasic_or_flat",
+      "morphology": "rS_pattern"
+    },
+    "V2": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":   0.00,
+      "R_amplitude_mV":   0.30,
+      "S_amplitude_mV":  -0.60,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.20,
+      "T_polarity": "positive",
+      "morphology": "rS_pattern"
+    },
+    "V3": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":   0.00,
+      "R_amplitude_mV":   0.80,
+      "S_amplitude_mV":  -0.40,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.30,
+      "T_polarity": "positive",
+      "morphology": "RS_transitional_zone"
+    },
+    "V4": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":   0.00,
+      "R_amplitude_mV":   1.20,
+      "S_amplitude_mV":  -0.25,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.40,
+      "T_polarity": "positive",
+      "morphology": "Rs_dominant_R"
+    },
+    "V5": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":  -0.05,
+      "R_amplitude_mV":   1.50,
+      "S_amplitude_mV":  -0.10,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.40,
+      "T_polarity": "positive",
+      "morphology": "tall_R_lateral"
+    },
+    "V6": {
+      "P_amplitude_mV":   0.10,
+      "Q_amplitude_mV":  -0.05,
+      "R_amplitude_mV":   1.00,
+      "S_amplitude_mV":  -0.05,
+      "ST_deviation_mV":  0.00,
+      "T_amplitude_mV":   0.35,
+      "T_polarity": "positive",
+      "morphology": "normal_lateral"
+    }
+  }
+}

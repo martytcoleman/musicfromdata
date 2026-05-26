@@ -1,0 +1,24 @@
+{
+  "source": "GE MAC VU360 1.03 SP03",
+  "institution": "DHMC",
+  "date": "2026-05-23",
+  "time_start": "16:55:01",
+  "time_end": "16:56:21",
+  "duration_seconds": 80,
+  "paper_speed_mm_per_s": 25,
+  "gain_mm_per_mV": 10,
+  "filter_hz": {
+    "high_pass": 0.56,
+    "low_pass": 150,
+    "notch": 60
+  },
+  "ms_per_small_square": 40,
+  "mV_per_small_square": 0.1,
+  "source_images": [
+    "IMG_4608.jpeg",
+    "IMG_4609.jpeg",
+    "IMG_4610.jpeg",
+    "IMG_4611.jpeg"
+  ],
+  "notes": "Continuous 12-lead EKG strip photographed in 4 segments, read horizontally left to right."
+}

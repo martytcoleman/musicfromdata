@@ -1,0 +1,32 @@
+{
+  "rhythm": "Normal sinus rhythm",
+  "rate_bpm": {
+    "start": 90,
+    "end": 71,
+    "trend": "decelerating over 80 seconds"
+  },
+  "intervals_ms": {
+    "PR": 140,
+    "QRS": 85,
+    "QT": 360,
+    "QTc_Bazett": 400
+  },
+  "axis_degrees": {
+    "P": 60,
+    "QRS": 55,
+    "T": 45
+  },
+  "P_waves": "Upright in I, II, aVF; inverted in aVR — normal sinus morphology",
+  "QRS_morphology": "Narrow, normal R-wave progression V1→V6, transition at V3–V4. No bundle branch block. No delta wave.",
+  "ST_segments": "Isoelectric — no elevation or depression in any lead",
+  "T_waves": "Upright in I, II, III, aVF, V3–V6; inverted in aVR — normal pattern",
+  "notable_findings": [
+    "Heavy motion artifact in first 2 segments (images 4608, left of 4609)",
+    "Heart rate decelerates from 90 → 71 bpm across the recording",
+    "No ischemic changes",
+    "No conduction abnormality",
+    "No chamber hypertrophy pattern",
+    "Normal QTc"
+  ],
+  "interpretation": "Normal sinus rhythm with gradual rate deceleration. No acute abnormality."
+}
