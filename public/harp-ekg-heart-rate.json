@@ -1,0 +1,19 @@
+{
+  "label": "Harp",
+  "units": "bpm",
+  "method": "machine-calculated from RR intervals, printed on strip header",
+  "average_bpm": 99,
+  "rr_interval_avg_ms": 606,
+  "measurements": [
+    { "source_image": "IMG_4648", "panel": "left",  "time": "19:01:02", "bpm": 99,  "rr_ms": 606 },
+    { "source_image": "IMG_4648", "panel": "right", "time": "19:01:15", "bpm": 97,  "rr_ms": 619 },
+    { "source_image": "IMG_4649", "panel": "left",  "time": "19:01:26", "bpm": 100, "rr_ms": 600 },
+    { "source_image": "IMG_4649", "panel": "right", "time": "19:01:47", "bpm": 96,  "rr_ms": 625 },
+    { "source_image": "IMG_4650", "panel": "left",  "time": "19:01:48", "bpm": 102, "rr_ms": 588 },
+    { "source_image": "IMG_4650", "panel": "right", "time": "19:02:00", "bpm": 102, "rr_ms": 588 },
+    { "source_image": "IMG_4651", "panel": "left",  "time": "19:02:00", "bpm": 102, "rr_ms": 588 },
+    { "source_image": "IMG_4651", "panel": "right", "time": "19:02:11", "bpm": 95,  "rr_ms": 632, "note": "artifact at end affects measurement" }
+  ],
+  "trend": "Stable sinus tachycardia ~99-102 bpm throughout. Slightly elevated vs prior recording (78 bpm).",
+  "variability_note": "Minor beat-to-beat variability (95–102 bpm range) consistent with normal sinus arrhythmia"
+}

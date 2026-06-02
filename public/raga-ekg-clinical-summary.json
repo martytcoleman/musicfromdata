@@ -1,0 +1,35 @@
+{
+  "label": "Raga",
+  "recording_date": "2026-05-30",
+  "facility": "DHMC",
+  "stimulus": "raga",
+  "heart_rate_bpm": 91,
+  "heart_rate_range_bpm": "80\u2013102",
+  "rhythm": "Sinus rhythm with gradual deceleration",
+  "recording_duration_seconds": 90,
+  "interpretation": {
+    "rate": "Sinus rhythm with gradual deceleration at ~91 bpm (range 80\u2013102). HR decelerated progressively from 102\u219280 bpm. Compared to guitar recording (avg 101 bpm, earlier), raga produced a significantly lower trough rate and clear downward trend.",
+    "rhythm": "Regular sinus rhythm with physiologic rate variation. No ectopic beats.",
+    "axis": "Normal axis ~+50\u00b0. No deviation.",
+    "conduction": {
+      "PR_ms": 140,
+      "QRS_ms": 86,
+      "QT_ms": 355,
+      "QTc_ms": 435,
+      "QTc_interpretation": "Normal"
+    },
+    "p_waves": "Upright in I, II, aVF. Inverted in aVR. Normal sinus P waves.",
+    "qrs_complex": "Narrow (86ms). Good R-wave progression V1\u2192V5. No BBB.",
+    "st_segments": "Isoelectric in all leads. No ST elevation or depression.",
+    "t_waves": "Upright in I, II, III, aVF, V3\u2013V6. Inverted in aVR. Normal.",
+    "notable_findings": [
+      "Progressive heart rate deceleration 102\u219280 bpm during raga stimulus",
+      "Lowest trough rate 80 bpm \u2014 consistent with parasympathetic/relaxation response",
+      "Normal QRS morphology and duration",
+      "No ST-T changes",
+      "Slight baseline artifact at recording end (4710 \u2014 electrode movement)",
+      "Clinically: raga induced measurable cardiac slowing vs baseline"
+    ],
+    "overall_assessment": "Sinus rhythm with progressive deceleration during Indian classical raga music. HR dropped from 102 to 80 bpm over ~90 seconds, consistent with a parasympathetic/relaxation autonomic response to the raga stimulus."
+  }
+}

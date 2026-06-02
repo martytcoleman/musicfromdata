@@ -1,0 +1,14 @@
+{
+  "I": "Positive QRS (R ~0.48 mV), upright T",
+  "II": "Dominant positive QRS (R ~0.98 mV), upright P and T",
+  "III": "Positive QRS (R ~0.58 mV), upright T",
+  "aVR": "Inverted P, negative QRS, inverted T \u2014 normal for aVR",
+  "aVL": "Small positive QRS (R ~0.20 mV), flat T",
+  "aVF": "Positive QRS (R ~0.62 mV), upright T",
+  "V1": "rS pattern \u2014 small r, deep S. Normal for right precordial",
+  "V2": "rS pattern transitioning \u2014 increasing r wave",
+  "V3": "Transitional zone \u2014 r ~0.62 mV with diminishing S",
+  "V4": "R wave dominant (R ~1.08 mV), normal progression",
+  "V5": "Tallest precordial R wave (~1.48 mV), minimal S",
+  "V6": "Lateral lead R ~1.22 mV, minimal S, upright T"
+}

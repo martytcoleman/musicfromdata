@@ -1,0 +1,41 @@
+{
+  "label": "Harp",
+  "recording_date": "2026-05-29",
+  "facility": "DHMC",
+  "rhythm": "Sinus tachycardia",
+  "heart_rate_bpm": 99,
+  "heart_rate_range_bpm": "95–102",
+  "interpretation": {
+    "rate": "Sinus tachycardia at ~99 bpm. Elevated compared to prior recording (78 bpm). Multiple possible causes: anxiety, pain, fever, hypovolemia, medications, physical activity prior to recording.",
+    "rhythm": "Regular sinus rhythm. Minor physiologic variation (95–102 bpm). No ectopic beats, no AV block, no bundle branch block.",
+    "axis": "Normal axis ~+50°. P axis ~60°, QRS axis ~50°, T axis ~45°. No axis deviation.",
+    "conduction": {
+      "PR_ms": 140,
+      "PR_interpretation": "Normal (normal range 120–200ms)",
+      "QRS_ms": 84,
+      "QRS_interpretation": "Normal narrow QRS (<120ms). No bundle branch block, no pre-excitation.",
+      "QT_ms": 320,
+      "QTc_ms": 411,
+      "QTc_interpretation": "Normal (QTc <440ms in men, <460ms in women). Rate-appropriate shortening vs prior recording."
+    },
+    "p_waves": "Upright in I, II, aVF. Inverted in aVR. Normal morphology, duration ~80ms, amplitude ~0.10 mV in II. Normal sinus P waves.",
+    "qrs_complex": "Narrow (84ms). Good R-wave progression V1→V5 (R increases from 0.12→1.40 mV). Transition zone at V3. No pathological Q waves. No delta waves. No LVH voltage criteria met.",
+    "st_segments": "Isoelectric in all leads. No ST elevation or depression. No acute ischemic changes.",
+    "t_waves": "Upright in I, II, III, aVF, V2–V6. Flat/slightly negative in V1 (normal). Inverted in aVR (normal). No T-wave inversion in lateral leads.",
+    "notable_findings": [
+      "Sinus tachycardia — most clinically significant finding",
+      "Normal QRS morphology and duration",
+      "Good precordial R-wave progression",
+      "No ST-T changes suggestive of ischemia",
+      "Recording artifact at start (4648 left, lead placement) and end (4651 right, lead removal)"
+    ],
+    "comparison_to_prior_ekg": {
+      "prior_label": "first EKG (IMG_4608–4611)",
+      "prior_hr_bpm": 78,
+      "current_hr_bpm": 99,
+      "hr_change": "+21 bpm (sinus tachycardia vs normal sinus rhythm)",
+      "morphology_changes": "QRS amplitudes broadly similar. QT appropriately shorter (320ms vs ~380ms) due to faster rate. No new ST or T-wave changes."
+    },
+    "overall_assessment": "Sinus tachycardia at 99 bpm. Otherwise normal 12-lead ECG. Clinical correlation recommended to determine cause of tachycardia."
+  }
+}

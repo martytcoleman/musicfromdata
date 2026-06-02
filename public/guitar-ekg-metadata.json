@@ -1,0 +1,19 @@
+{
+  "label": "Guitar",
+  "recording_date": "2026-05-30",
+  "facility": "DHMC",
+  "time_start": "06:02:55 PM",
+  "time_end": "06:04:10 PM",
+  "recording_duration_seconds": 75,
+  "calibration": {
+    "paper_speed_mm_per_s": 25,
+    "gain_mm_per_mV": 10
+  },
+  "source_images": [
+    "IMG_4711.jpeg",
+    "IMG_4712.jpeg",
+    "IMG_4713.jpeg",
+    "IMG_4714.jpeg"
+  ],
+  "stimulus": "guitar"
+}

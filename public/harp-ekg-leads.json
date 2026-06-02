@@ -1,0 +1,115 @@
+{
+  "label": "Harp",
+  "calibration": "25mm/s, 10mm/mV",
+  "heart_rate_bpm": 99,
+  "intervals_ms": {
+    "PR": 140,
+    "QRS": 84,
+    "QT": 320,
+    "QTc_Bazett": 411,
+    "RR": 606
+  },
+  "axis_degrees": {
+    "P_axis": 60,
+    "QRS_axis": 50,
+    "T_axis": 45
+  },
+  "leads": {
+    "I": {
+      "P_mV": 0.05,
+      "Q_mV": -0.02,
+      "R_mV": 0.55,
+      "S_mV": -0.05,
+      "T_mV": 0.12,
+      "morphology": "qR, upright T, low-amplitude"
+    },
+    "II": {
+      "P_mV": 0.10,
+      "Q_mV": -0.02,
+      "R_mV": 1.00,
+      "S_mV": -0.05,
+      "T_mV": 0.22,
+      "morphology": "tall upright QRS, visible P, upright T — clearest lead"
+    },
+    "III": {
+      "P_mV": 0.05,
+      "Q_mV": -0.05,
+      "R_mV": 0.70,
+      "S_mV": -0.10,
+      "T_mV": 0.15,
+      "morphology": "positive QRS, upright T"
+    },
+    "aVR": {
+      "P_mV": -0.08,
+      "Q_mV": 0.00,
+      "R_mV": -0.08,
+      "S_mV": -0.75,
+      "T_mV": -0.15,
+      "morphology": "rS pattern, inverted T — normal"
+    },
+    "aVL": {
+      "P_mV": 0.02,
+      "Q_mV": -0.05,
+      "R_mV": 0.20,
+      "S_mV": -0.10,
+      "T_mV": 0.05,
+      "morphology": "small low-amplitude QRS"
+    },
+    "aVF": {
+      "P_mV": 0.08,
+      "Q_mV": -0.02,
+      "R_mV": 0.80,
+      "S_mV": -0.08,
+      "T_mV": 0.18,
+      "morphology": "upright, similar to II"
+    },
+    "V1": {
+      "P_mV": 0.03,
+      "Q_mV": 0.00,
+      "R_mV": 0.12,
+      "S_mV": -0.40,
+      "T_mV": -0.05,
+      "morphology": "rS pattern, small r, deep S, flat/slightly negative T — normal"
+    },
+    "V2": {
+      "P_mV": 0.03,
+      "Q_mV": 0.00,
+      "R_mV": 0.25,
+      "S_mV": -0.30,
+      "T_mV": 0.10,
+      "morphology": "RS transitional, upright T"
+    },
+    "V3": {
+      "P_mV": 0.02,
+      "Q_mV": 0.00,
+      "R_mV": 0.60,
+      "S_mV": -0.20,
+      "T_mV": 0.25,
+      "morphology": "transitional zone, RS pattern"
+    },
+    "V4": {
+      "P_mV": 0.02,
+      "Q_mV": -0.02,
+      "R_mV": 1.10,
+      "S_mV": -0.10,
+      "T_mV": 0.35,
+      "morphology": "dominant R, upright T"
+    },
+    "V5": {
+      "P_mV": 0.02,
+      "Q_mV": -0.03,
+      "R_mV": 1.40,
+      "S_mV": -0.05,
+      "T_mV": 0.35,
+      "morphology": "tallest R wave in precordial leads, upright T"
+    },
+    "V6": {
+      "P_mV": 0.02,
+      "Q_mV": -0.03,
+      "R_mV": 1.20,
+      "S_mV": -0.05,
+      "T_mV": 0.28,
+      "morphology": "tall R, upright T, slightly less than V5"
+    }
+  }
+}

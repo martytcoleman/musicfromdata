@@ -1,0 +1,36 @@
+{
+  "label": "Guitar",
+  "recording_date": "2026-05-30",
+  "facility": "DHMC",
+  "stimulus": "guitar",
+  "heart_rate_bpm": 101,
+  "heart_rate_range_bpm": "90\u2013118",
+  "rhythm": "Sinus tachycardia, rate variable",
+  "recording_duration_seconds": 75,
+  "interpretation": {
+    "rate": "Sinus tachycardia, rate variable at ~101 bpm (range 90\u2013118). HR elevated and variable 90\u2013118 bpm (avg 101). Compared to raga (avg 91 bpm, later session), guitar produced higher peak rate, greater variability, and no sustained deceleration.",
+    "rhythm": "Regular sinus rhythm with physiologic rate variation. No ectopic beats.",
+    "axis": "Normal axis ~+50\u00b0. No deviation.",
+    "conduction": {
+      "PR_ms": 140,
+      "QRS_ms": 86,
+      "QT_ms": 308,
+      "QTc_ms": 400,
+      "QTc_interpretation": "Normal"
+    },
+    "p_waves": "Upright in I, II, aVF. Inverted in aVR. Normal sinus P waves.",
+    "qrs_complex": "Narrow (86ms). Good R-wave progression V1\u2192V5. No BBB.",
+    "st_segments": "Isoelectric in all leads. No ST elevation or depression.",
+    "t_waves": "Upright in I, II, III, aVF, V3\u2013V6. Inverted in aVR. Normal.",
+    "notable_findings": [
+      "Elevated and variable heart rate 107\u2192118\u219294\u219290\u2192105 bpm during guitar stimulus",
+      "Peak rate 118 bpm \u2014 sympathetic activation/arousal response",
+      "Significant baseline artifact in limb leads at recording start (physical guitar playing)",
+      "Rate variability higher than raga recording \u2014 less autonomic regularity",
+      "QT appropriately shortened (308ms) compared to raga (355ms) due to higher rate",
+      "Clinically: guitar induced sympathetic activation vs raga's parasympathetic engagement",
+      "Recorded BEFORE raga (06:02 PM vs 06:08 PM)"
+    ],
+    "overall_assessment": "Sinus tachycardia with variable rate during guitar music stimulus. HR reached 118 bpm and remained elevated and variable (~101 bpm avg) throughout, consistent with a sympathetic/arousal autonomic response. Contrast with subsequent raga recording which produced progressive HR deceleration to 80 bpm \u2014 demonstrating distinct autonomic signatures between the two musical stimuli."
+  }
+}

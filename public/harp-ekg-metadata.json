@@ -1,0 +1,30 @@
+{
+  "label": "Harp",
+  "source_images": ["IMG_4648.jpeg", "IMG_4649.jpeg", "IMG_4650.jpeg", "IMG_4651.jpeg"],
+  "reading_order": "horizontal left-to-right, 4648 → 4651",
+  "facility": "DHMC (Dartmouth Hitchcock Medical Center)",
+  "recording_date": "2026-05-29",
+  "recording_start_time": "19:01:02",
+  "recording_end_time": "19:02:11",
+  "total_duration_seconds": 69,
+  "machine": "MAC VU360 1.03 SP03",
+  "calibration": {
+    "paper_speed_mm_per_sec": 25,
+    "gain_mm_per_mV": 10,
+    "small_square_time_ms": 40,
+    "small_square_voltage_mV": 0.1,
+    "large_square_time_ms": 200,
+    "large_square_voltage_mV": 0.5,
+    "filter_hz": "0.56-150 Hz",
+    "notch_filter_hz": 60,
+    "mode": "2PD"
+  },
+  "leads_recorded": ["I", "II", "III", "aVR", "aVL", "aVF", "V1", "V2", "V3", "V4", "V5", "V6"],
+  "notes": [
+    "Recording begins with motion artifact / lead placement noise on far left of 4648",
+    "Clean stable rhythm from mid-4648 through mid-4651",
+    "Motion artifact resumes at far right of 4651 — leads being removed, end of recording",
+    "HR accelerates slightly mid-recording (99→102 bpm) then shows 95 bpm at artifact-affected end",
+    "Compared to previous EKG (78 bpm): this recording is sinus tachycardia at ~99 bpm"
+  ]
+}
