@@ -14,7 +14,7 @@ MIDI tempo = actual heart rate. QT → reverb. QRS → note length.
 
 Usage:
     python3 ekg_test.py harp
-    python3 ekg_test.py violin
+    python3 ekg_test.py binaural
     python3 ekg_test.py raga
     python3 ekg_test.py guitar
 """
@@ -59,7 +59,7 @@ REGISTRY = {
         # Sinus tachycardia, steady 95–102 bpm. Slight natural deceleration.
         "tempo_curve": [(0, 102), (114, 95)],
     },
-    "violin": {
+    "binaural": {
         "csv":     "ekg-waveform-timeseries.csv",
         "summary": "ekg-clinical-summary.json",
         "label":   "binaural_beats",
